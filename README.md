@@ -4,8 +4,8 @@
     - [How to Write a Modern Terraform Provider: Tools and Patterns](https://www.youtube.com/watch?v=XlxkqXQCZ4Y)
     - [Create a Terraform provider with the Plugin Framework](https://www.youtube.com/watch?v=16qs7LJSyps&t=66s)
     - [Terraform Plugin Framework](https://developer.hashicorp.com/terraform/plugin/framework)
-    - [YC](https://www.ycombinator.com/companies/?tags=Infrastructure&tags=Cloud%20Computing&tags=DevOps&tags=DevSecOps&tags=Workflow%20Automation)
-2. Write a AWS/Azure/GCP CLI
+    - [YC Startups](https://docs.google.com/document/d/1CkzB06HJNA4QsctcFG3fnH-2k55ZeA7F-MV3th8pHk8/edit?usp=sharing)
+2. Write an AWS/Azure/GCP CLI
     - [Secrets Bulk Upload](https://x.com/odirionyeo/status/1671216700782436353)
 3. Write a Prometheus Exporter
     - [Build Custom Prometheus Exporter](https://www.youtube.com/watch?v=3wT0zSsQb58)
