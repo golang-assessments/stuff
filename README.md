@@ -8,10 +8,11 @@
 2. Write an AWS/Azure/GCP CLI
     - [Secrets Bulk Upload](https://x.com/odirionyeo/status/1671216700782436353)
 3. Write a Kubernetes Operator/Controller
+    - [Kubernetes Operator Resources](https://github.com/calvin-puram/awesome-kubernetes-operator-resources)
     - [Kubernetes Controller](https://x.com/odirionyeo/status/1671216700782436353) 
-4. Write a Kubernetes CLI
+5. Write a Kubernetes CLI
     - [Working with Kubernetes API](https://iximiuz.com/en/series/working-with-kubernetes-api/)
-5. Write a Prometheus Exporter
+6. Write a Prometheus Exporter
     - [Build Custom Prometheus Exporter](https://www.youtube.com/watch?v=3wT0zSsQb58)
     - [Export Prometheus Metrics from Just About Anything](https://www.youtube.com/watch?v=Zk09Mbu0YQk)
     - [Writing Exporters Documentation](https://prometheus.io/docs/instrumenting/writing_exporters/)
