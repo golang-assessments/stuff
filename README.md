@@ -7,14 +7,14 @@
     - [YC Startups](https://docs.google.com/document/d/1CkzB06HJNA4QsctcFG3fnH-2k55ZeA7F-MV3th8pHk8/edit?usp=sharing)
 2. Write an AWS/Azure/GCP CLI
     - [Secrets Bulk Upload](https://x.com/odirionyeo/status/1671216700782436353)
-3. Write a Prometheus Exporter
+3. Write a Kubernetes Operator/Controller
+    - [Kubernetes Controller](https://x.com/odirionyeo/status/1671216700782436353) 
+4. Write a Kubernetes CLI
+    - [Working with Kubernetes API](https://iximiuz.com/en/series/working-with-kubernetes-api/)
+5. Write a Prometheus Exporter
     - [Build Custom Prometheus Exporter](https://www.youtube.com/watch?v=3wT0zSsQb58)
     - [Export Prometheus Metrics from Just About Anything](https://www.youtube.com/watch?v=Zk09Mbu0YQk)
     - [Writing Exporters Documentation](https://prometheus.io/docs/instrumenting/writing_exporters/)
     - [Exporter-Example](https://github.com/mikejoh/exporter-example)
     - [Build Prometheus Exporter in Go](https://www.civo.com/learn/build-your-own-prometheus-exporter-in-go)
     - [Free Idea: dnf Prometheus Exporter](https://flameeyes.blog/2023/11/05/free-idea-dnf-prometheus-exporter/)
-4. Write a Kubernetes Operator/Controller
-    - [Kubernetes Controller](https://x.com/odirionyeo/status/1671216700782436353) 
-5. Write a Kubernetes CLI
-    - [Working with Kubernetes API](https://iximiuz.com/en/series/working-with-kubernetes-api/)
