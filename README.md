@@ -19,3 +19,4 @@
     - [Exporter-Example](https://github.com/mikejoh/exporter-example)
     - [Build Prometheus Exporter in Go](https://www.civo.com/learn/build-your-own-prometheus-exporter-in-go)
     - [Free Idea: dnf Prometheus Exporter](https://flameeyes.blog/2023/11/05/free-idea-dnf-prometheus-exporter/)
+7. Write a Package/Library/SDK
