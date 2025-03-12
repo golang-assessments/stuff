@@ -12,6 +12,7 @@
     - [Kubernetes Controller](https://x.com/odirionyeo/status/1671216700782436353) 
 5. Write a Kubernetes CLI
     - [Working with Kubernetes API](https://iximiuz.com/en/series/working-with-kubernetes-api/)
+    - [Working with Kubernetes API Challenge](https://github.com/golang-assessments/careers/blob/main/challenges/sre/challenge.md)
 6. Write a Prometheus Exporter
     - [Build Custom Prometheus Exporter](https://www.youtube.com/watch?v=3wT0zSsQb58)
     - [Export Prometheus Metrics from Just About Anything](https://www.youtube.com/watch?v=Zk09Mbu0YQk)
