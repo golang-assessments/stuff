@@ -1,4 +1,4 @@
-# infra-ideas
+# to-do
 1. Neetcode
 2. Write a Terraform Provider(e.g. for a YC-backed Startup)
     - [Creating a Terraform Provider for Just About Anything](https://www.youtube.com/watch?v=noxwUVet5RE)
