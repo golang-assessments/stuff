@@ -9,19 +9,18 @@
 3. Write an AWS/Azure/GCP CLI
     - [Secrets Bulk Upload](https://x.com/odirionyeo/status/1671216700782436353)
 4. Write a Prometheus Exporter
-    - [Build Custom Prometheus Exporter](https://www.youtube.com/watch?v=3wT0zSsQb58)
-    - [Export Prometheus Metrics from Just About Anything](https://www.youtube.com/watch?v=Zk09Mbu0YQk)
-    - [Writing Exporters Documentation](https://prometheus.io/docs/instrumenting/writing_exporters/)
     - [Exporter-Example](https://github.com/mikejoh/exporter-example)
+    - [Build Custom Prometheus Exporter](https://www.youtube.com/watch?v=3wT0zSsQb58)
+    - [Writing Exporters Documentation](https://prometheus.io/docs/instrumenting/writing_exporters/)
+    - [Export Prometheus Metrics from Just About Anything](https://www.youtube.com/watch?v=Zk09Mbu0YQk)
     - [Build Prometheus Exporter in Go](https://www.civo.com/learn/build-your-own-prometheus-exporter-in-go)
-    - [Free Idea: dnf Prometheus Exporter](https://flameeyes.blog/2023/11/05/free-idea-dnf-prometheus-exporter/)
-5. Working with Kubernetes
+6. Working with Kubernetes
     - [Kubernetes Operator Resources](https://github.com/calvin-puram/awesome-kubernetes-operator-resources)
     - [Write a Kubernetes Controller](https://x.com/odirionyeo/status/1671216700782436353) 
     - [Working with Kubernetes API](https://iximiuz.com/en/series/working-with-kubernetes-api/)
     - [Working with Kubernetes API Challenge](https://github.com/golang-assessments/careers/blob/main/challenges/sre/challenge.md)
-6. [Coding Challenges](https://codingchallenges.fyi/challenges/intro/)
-7. Distributed Systems:
+7. [Coding Challenges](https://codingchallenges.fyi/challenges/intro/)
+8. Distributed Systems:
    - [Distributed Services With Go](https://bookshop.org/p/books/distributed-services-with-go-your-guide-to-reliable-scalable-and-maintainable-systems-travis-jeffery/14496869?ean=9781680507607&next=t)
    - [Distributed Systems Course](https://www.youtube.com/playlist?list=PLOE1GTZ5ouRPbpTnrZ3Wqjamfwn_Q5Y9A)
    - [Martin Kleppmann / DDIA](https://www.youtube.com/playlist?list=PLeKd45zvjcDFUEv_ohr_HdUFe97RItdiB)
