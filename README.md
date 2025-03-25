@@ -19,7 +19,7 @@
     - [Write a Kubernetes Controller](https://x.com/odirionyeo/status/1671216700782436353) 
     - [Working with Kubernetes API](https://iximiuz.com/en/series/working-with-kubernetes-api/)
     - [Working with Kubernetes API Challenge](https://github.com/golang-assessments/careers/blob/main/challenges/sre/challenge.md)
-7. [Coding Challenges](https://codingchallenges.fyi/challenges/intro/)
+7. [ImmersiveGo](https://github.com/golang-assessments/immersive-go-course/tree/main/projects) | [Coding Challenges](https://codingchallenges.fyi/challenges/intro/)
 8. Distributed Systems:
    - [Distributed Services With Go](https://bookshop.org/p/books/distributed-services-with-go-your-guide-to-reliable-scalable-and-maintainable-systems-travis-jeffery/14496869?ean=9781680507607&next=t)
    - [Distributed Systems Course](https://www.youtube.com/playlist?list=PLOE1GTZ5ouRPbpTnrZ3Wqjamfwn_Q5Y9A)
@@ -28,5 +28,3 @@
    - [Washington Distributed Systems](https://courses.cs.washington.edu/courses/cse452/)
    - [Fly.io Gossip Glomers](https://fly.io/dist-sys/)
    - [Distributed Systems Papers](https://www.cs.rice.edu/~alc/comp520/schedule.html)
-
-     
