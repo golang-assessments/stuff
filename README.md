@@ -15,7 +15,7 @@
    - [Technical-Challenge](https://github.com/lalamove/intern-tech-challenge)
    - [AfterShip-Challenge](https://github.com/golang-assessments/challenge11/tree/site-reliability-engineer)
    - [AfricasTalkingTalent](https://github.com/golang-assessments/InfraCodeChallengeSeptember2018)
-   - [Interacting with Public API](https://github.com/golang-assessments/infra-challenge
+   - [Interacting with Public API](https://github.com/golang-assessments/infra-challenge)
    - [LRU Cache/Implementation](https://github.com/golang-assessments/immersive-go-course/tree/main/projects/concurrency)
 1. Write a Terraform Provider(e.g., for a YC-backed Startup)
     - [YC Startups](https://docs.google.com/document/d/1CkzB06HJNA4QsctcFG3fnH-2k55ZeA7F-MV3th8pHk8/edit?usp=sharing)
@@ -43,6 +43,4 @@
    - [Distributed Systems Course](https://www.youtube.com/playlist?list=PLOE1GTZ5ouRPbpTnrZ3Wqjamfwn_Q5Y9A)
    - [Distributed Systems Classes](https://github.com/golang-assessments/distsys-class)
    - [Distributed Services With Go](https://bookshop.org/p/books/distributed-services-with-go-your-guide-to-reliable-scalable-and-maintainable-systems-travis-jeffery/14496869?ean=9781680507607&next=t)
-   - [Distributed System Challenge](https://github.com/golang-assessments/be-systems-hiring-challenge)
    - [Washington Distributed Systems](https://courses.cs.washington.edu/courses/cse452/)
-   - [Distributed Systems Papers](https://www.cs.rice.edu/~alc/comp520/schedule.html)
