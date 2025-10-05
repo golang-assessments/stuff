@@ -1,8 +1,7 @@
 # programming stuff for SRE
 0. Challenges
-   - [Proxy](https://github.com/golang-assessments/challenge6/blob/master/sre.md)
-   - [Ze-Code](https://github.com/golang-assessments/ze-code-challenges)
-   - [Practice-Go](https://github.com/golang-assessments/practice-go)
+   
+   
    - [Log Parsing](https://github.com/golang-assessments/tech-pos-platform-engineering-interview-task)
    - [File Parsing](https://github.com/golang-assessments/immersive-go-course/tree/main/projects/file-parsing)
    - [Docker/Cloud](https://github.com/golang-assessments/immersive-go-course/tree/main/projects/docker-cloud)
@@ -10,7 +9,9 @@
    - [SadServers Data](https://sadservers.com/tag/data%20processing)
    - [SadServers JSON](https://sadservers.com/tag/json)
    - [Batch Processing](https://github.com/golang-assessments/immersive-go-course/tree/main/projects/batch-processing)
+   - [Kubernetes Proxy](https://github.com/golang-assessments/challenge6/blob/master/sre.md)
    - [DevOps-Challenge](https://github.com/golang-assessments/devops-challenge)
+   - [Ze-Code-Challenge]](https://github.com/golang-assessments/ze-code-challenges)
    - [Secrets Bulk Upload](https://x.com/odirionyeo/status/1671216700782436353)
    - [Technical-Challenge](https://github.com/lalamove/intern-tech-challenge)
    - [AfterShip-Challenge](https://github.com/golang-assessments/challenge11/tree/site-reliability-engineer)
