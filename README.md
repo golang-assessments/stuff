@@ -1,7 +1,7 @@
 # programming stuff for SRE
 0. Challenges
-   - [Log Parsing](https://github.com/golang-assessments/tech-pos-platform-engineering-interview-task)
    - [File Parsing](https://github.com/golang-assessments/immersive-go-course/tree/main/projects/file-parsing)
+   - [Log Parsing](https://github.com/golang-assessments/tech-pos-platform-engineering-interview-task) 
    - [Docker/Cloud](https://github.com/golang-assessments/immersive-go-course/tree/main/projects/docker-cloud)
    - [SadServers CSV](https://sadservers.com/tag/csv)
    - [SadServers Data](https://sadservers.com/tag/data%20processing)
@@ -16,7 +16,7 @@
    - [AfterShip-Challenge](https://github.com/golang-assessments/challenge11/tree/site-reliability-engineer)
    - [Interacting with Public API](https://github.com/golang-assessments/infra-challenge)
    - [LRU Cache/Implementation](https://github.com/golang-assessments/immersive-go-course/tree/main/projects/concurrency)
-1. Write a Terraform Provider(e.g., for a YC-backed Startup)
+2. Write a Terraform Provider(e.g., for a YC-backed Startup)
     - [YC Startups](https://docs.google.com/document/d/1CkzB06HJNA4QsctcFG3fnH-2k55ZeA7F-MV3th8pHk8/edit?usp=sharing)
     - [Terraform Plugin Framework](https://developer.hashicorp.com/terraform/plugin/framework)
     - [Creating a Terraform Provider for Just About Anything](https://www.youtube.com/watch?v=noxwUVet5RE)
