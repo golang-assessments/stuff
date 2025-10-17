@@ -36,8 +36,8 @@
 5. Distributed Systems
    - [DS Course](https://www.youtube.com/playlist?list=PLOE1GTZ5ouRPbpTnrZ3Wqjamfwn_Q5Y9A)
    - [DS Classes](https://github.com/golang-assessments/distsys-class)
+   - [MIT Lectures](https://learncs.me/mit/6.824)
    - [Fly.io Gossip Glomers](https://fly.io/dist-sys/)
-   - [MIT Distributed Systems](https://learncs.me/mit/6.824)
    - [Raft/Otel Implementation](https://github.com/golang-assessments/immersive-go-course/tree/main/projects/raft-otel)
    - [Washington Distributed Systems](https://courses.cs.washington.edu/courses/cse452/)
    - [Talent-Plan: Coding A SQL/KVDB From Scratch](https://github.com/golang-assessments/talent-plan)
