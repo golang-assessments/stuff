@@ -1,5 +1,6 @@
 # programming stuff for SRE
 0. Challenges
+   - [Homelab](https://docs.google.com/document/d/1zWqOjcIb-bE5CWQRAZ83C_qENpr9LcDhwunxgbMaDwU/edit?usp=sharing)
    - [File Parsing](https://github.com/golang-assessments/immersive-go-course/tree/main/projects/file-parsing)
    - [Log Parsing](https://github.com/golang-assessments/tech-pos-platform-engineering-interview-task) 
    - [Docker/Cloud](https://github.com/golang-assessments/immersive-go-course/tree/main/projects/docker-cloud)
