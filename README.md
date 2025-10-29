@@ -30,11 +30,12 @@
     - [Build Custom Prometheus Exporter](https://www.youtube.com/watch?v=3wT0zSsQb58)
     - [Export Prometheus Metrics from Just About Anything](https://www.youtube.com/watch?v=Zk09Mbu0YQk)
 4. Working with Kubernetes
+    - [Gopher's Guide](https://docs.google.com/presentation/d/1TJdB0etI-P7iGyCXzesfVUZYIzlRDxoc-B5hl01_gQk/edit?slide=id.p#slide=id.p)
     - [Working with Kubernetes API](https://iximiuz.com/en/series/working-with-kubernetes-api/)
     - [Kubernetes Operator Resources](https://github.com/calvin-puram/awesome-kubernetes-operator-resources) 
     - [Working with Kubernetes API Challenge](https://github.com/golang-assessments/careers/blob/main/challenges/sre/challenge.md)
     - [Write a Kubernetes Controller/Operator](https://x.com/odirionyeo/status/1671216700782436353)
-5. Distributed Systems
+6. Distributed Systems
    - [DS Course](https://www.youtube.com/playlist?list=PLOE1GTZ5ouRPbpTnrZ3Wqjamfwn_Q5Y9A)
    - [DS Classes](https://github.com/golang-assessments/distsys-class)
    - [MIT Lectures](https://learncs.me/mit/6.824)
