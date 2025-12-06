@@ -16,6 +16,7 @@
    - [AfricasTalkingTalent](https://github.com/golang-assessments/InfraCodeChallengeSeptember2018)
    - [AfterShip-Challenge](https://github.com/golang-assessments/challenge11/tree/site-reliability-engineer)
    - [Interacting with Public API](https://github.com/golang-assessments/infra-challenge)
+   - [InstrumentationChallenge](https://github.com/axpogroup/hiring-challenges/tree/main/sre-instrumentation-challenge)
    - [LRU Cache/Implementation](https://github.com/golang-assessments/immersive-go-course/tree/main/projects/concurrency)
 1. Working with Kubernetes
    - [Gopher's Guide](https://docs.google.com/presentation/d/1TJdB0etI-P7iGyCXzesfVUZYIzlRDxoc-B5hl01_gQk/edit?slide=id.p#slide=id.p)
