@@ -1,8 +1,6 @@
 # programming stuff for SRE
 0. Challenges
    - [File Parsing](https://github.com/golang-assessments/immersive-go-course/tree/main/projects/file-parsing)
-   - [Log Parsing](https://github.com/golang-assessments/tech-pos-platform-engineering-interview-task) 
-   - [Docker/Cloud](https://github.com/golang-assessments/immersive-go-course/tree/main/projects/docker-cloud)
    - [SadServers CSV](https://sadservers.com/tag/csv)
    - [SadServers Data](https://sadservers.com/tag/data%20processing)
    - [Batch Processing](https://github.com/golang-assessments/immersive-go-course/tree/main/projects/batch-processing)
